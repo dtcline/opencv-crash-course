@@ -1,4 +1,4 @@
-# from "day 2" tutorial: https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
+# from "day 5" tutorial: https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
 
 # import the necessary package
 import argparse

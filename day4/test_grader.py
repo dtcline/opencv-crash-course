@@ -1,4 +1,4 @@
-# from "day 2" tutorial: https://www.pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/
+# from "day 4" tutorial: https://www.pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/
 
 #import the necessary packages
 import argparse
