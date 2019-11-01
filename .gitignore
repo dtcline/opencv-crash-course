@@ -1,4 +1,5 @@
 .idea/workspace.xml
+**/.DS_Store
 **/*.pyc
 day1/deep-learning-face-detection/
 day2/opencv-tutorial/
