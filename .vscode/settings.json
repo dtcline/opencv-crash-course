@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/dustincline/.local/share/virtualenvs/opencv-crash-course-JRtI-3jb/bin/python"
+    "python.pythonPath": "/Users/dustincline/.local/share/virtualenvs/opencv-crash-course-JRtI-3jb/bin/python",
+    "python.linting.pylintArgs": ["--extension-pkg-whitelist=cv2"]
 }
