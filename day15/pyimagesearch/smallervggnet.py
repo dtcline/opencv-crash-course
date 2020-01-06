@@ -1,0 +1,1 @@
+# from "day 15" tutorial: https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/
