@@ -12,5 +12,14 @@ day12/kaggle_dogs_vs_cats/
 day12/output/
 day12/test_images/
 day13/images/
-day14/search-bing-api.zip # too big for Github
-day14/search-bing-api/ 
+day14/search-bing-api.zip
+day14/search-bing-api/dataset/bulbasaur/
+!day14/search-bing-api/dataset/bulbasaur.zip
+day14/search-bing-api/dataset/charmander/
+!day14/search-bing-api/dataset/charmander.zip
+day14/search-bing-api/dataset/mewtwo/
+!day14/search-bing-api/dataset/mewtwo.zip
+day14/search-bing-api/dataset/pikachu/
+!day14/search-bing-api/dataset/pikachu.zip
+day14/search-bing-api/dataset/squirtle/
+!day14/search-bing-api/dataset/squirtle.zip
